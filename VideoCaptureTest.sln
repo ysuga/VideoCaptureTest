@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VideoCaptureTest", "VideoCaptureTest\VideoCaptureTest.vcproj", "{7F5EB8E8-E174-40CB-9A90-B28B167C15D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F5EB8E8-E174-40CB-9A90-B28B167C15D5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F5EB8E8-E174-40CB-9A90-B28B167C15D5}.Debug|Win32.Build.0 = Debug|Win32
+		{7F5EB8E8-E174-40CB-9A90-B28B167C15D5}.Release|Win32.ActiveCfg = Release|Win32
+		{7F5EB8E8-E174-40CB-9A90-B28B167C15D5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
